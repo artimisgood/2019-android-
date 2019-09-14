@@ -4,16 +4,14 @@
 
 返回到目标结点 target 距离为 K 的所有结点的值的列表。 答案可以以任何顺序返回。
 
- 
-
-
-
 
 示例 1：
 
 输入：root = [3,5,1,6,2,0,8,null,null,7,4], target = 5, K = 2
 
 输出：[7,4,1]
+
+https://github.com/artimisgood/2019-android-/blob/master/sketch0.png?raw=true
 
 解释：
 所求结点为与目标结点（值为 5）距离为 2 的结点，
